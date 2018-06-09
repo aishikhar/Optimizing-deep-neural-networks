@@ -1,0 +1,51 @@
+Features with Importances above 2% are: 
+
+STEROIDS :  0.0354302572768 
+
+DEXABETA :  0.0487488695851 
+
+DELVMODE :  0.0332140504959 
+
+APG1MIN :  0.025182462588 
+
+APG5MIN :  0.0230523992262 
+
+RESUSNEED :  0.0356115083343 
+
+MODERESUS :  0.0371593849238 
+
+BWT :  0.141784848723 
+
+HC_Birth :  0.0646414820713 
+
+HRday1 :  0.115248597714 
+
+HR48HRS :  0.100116627467 
+
+HR72HRS :  0.120668162918 
+
+Desaturation1_3DAYS :  0.0718730960851 
+
+Gestation :  0.0714629381337
+*****************************************************8
+Features with importance LESS than 2 % are:
+
+BIRTHCRY :  0.0129087643529 
+
+SURFACTANT :  0.0141550625304 
+
+ALTE :  0.00755327250328 
+
+Brady1_3DAYS :  0.00778001648839 
+*******************************************************
+Which we can hence remove!
+
+Thus our total explained feature importance: 0.957602884125 %
+
+16  Features Selected:  ['AGASGA', 'STEROIDS', 'DEXABETA', 'DELVMODE', 'APG1MIN', 'APG5MIN', 'RESUSNEED', 'MODERESUS', 'BWT', 'HC_Birth', 'HRday1', 'HR48HRS', 'HR72HRS', 'Desaturation1_3DAYS', 'Gestation', 'Sex']  WITH TOTAL FEATURE EXPLAINED SUM:  0.957602884125
+
+
+Paper Reference:
+[1] 
+Guyon, Isabelle, and André Elisseeff. "An introduction to variable and feature selection." Journal of machine learning research 3.Mar (2003): 1157-1182.
+APA	

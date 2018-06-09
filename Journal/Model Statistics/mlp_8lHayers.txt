@@ -1,0 +1,3470 @@
+o.d.o.l.ScoreIterationListener - Score at iteration 0 is 0.6920706681379183
+o.d.o.l.ScoreIterationListener - Score at iteration 100 is 0.6447975579209215
+At Epoch No: 25
+Confusion Matrix: {0=[0 x 86], 1=[0 x 24]}
+Precision: 0.7818181818181819 Recall: 0.5 FNR: 0.5FPR: 0.5
+
+Examples labeled as 0 classified by model as 0: 86 times
+Examples labeled as 1 classified by model as 0: 24 times
+
+Warning: class 1 was never predicted by the model. This class was excluded from the average precision
+
+==========================Scores========================================
+ Accuracy:  0.7818
+ Precision: 0.7818
+ Recall:    0.5
+ F1 Score:  0.6099
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 200 is 0.6434652974286418
+At Epoch No: 50
+Confusion Matrix: {0=[0 x 86], 1=[0 x 24]}
+Precision: 0.7818181818181819 Recall: 0.5 FNR: 0.5FPR: 0.5
+
+Examples labeled as 0 classified by model as 0: 86 times
+Examples labeled as 1 classified by model as 0: 24 times
+
+Warning: class 1 was never predicted by the model. This class was excluded from the average precision
+
+==========================Scores========================================
+ Accuracy:  0.7818
+ Precision: 0.7818
+ Recall:    0.5
+ F1 Score:  0.6099
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 300 is 0.6388420044906497
+At Epoch No: 75
+Confusion Matrix: {0=[0 x 86], 1=[0 x 24]}
+Precision: 0.7818181818181819 Recall: 0.5 FNR: 0.5FPR: 0.5
+
+Examples labeled as 0 classified by model as 0: 86 times
+Examples labeled as 1 classified by model as 0: 24 times
+
+Warning: class 1 was never predicted by the model. This class was excluded from the average precision
+
+==========================Scores========================================
+ Accuracy:  0.7818
+ Precision: 0.7818
+ Recall:    0.5
+ F1 Score:  0.6099
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 400 is 0.5916575033833661
+o.d.o.l.ScoreIterationListener - Score at iteration 500 is 0.14371610626460998
+At Epoch No: 100
+Confusion Matrix: {0=[0 x 68, 1 x 18], 1=[0 x 13, 1 x 11]}
+Precision: 0.6094082588335461 Recall: 0.624515503875969 FNR: 0.624515503875969FPR: 0.624515503875969
+
+Examples labeled as 0 classified by model as 0: 68 times
+Examples labeled as 0 classified by model as 1: 18 times
+Examples labeled as 1 classified by model as 0: 13 times
+Examples labeled as 1 classified by model as 1: 11 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7182
+ Precision: 0.6094
+ Recall:    0.6245
+ F1 Score:  0.6169
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 600 is 0.08536366590364712
+At Epoch No: 125
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 13, 1 x 11]}
+Precision: 0.5822510822510822 Recall: 0.6012596899224806 FNR: 0.6012596899224806FPR: 0.6012596899224806
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 13 times
+Examples labeled as 1 classified by model as 1: 11 times
+
+
+==========================Scores========================================
+ Accuracy:  0.6818
+ Precision: 0.5823
+ Recall:    0.6013
+ F1 Score:  0.5916
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 700 is 0.08204527727262241
+At Epoch No: 150
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 12, 1 x 12]}
+Precision: 0.5975232198142415 Recall: 0.622093023255814 FNR: 0.622093023255814FPR: 0.622093023255814
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 12 times
+Examples labeled as 1 classified by model as 1: 12 times
+
+
+==========================Scores========================================
+ Accuracy:  0.6909
+ Precision: 0.5975
+ Recall:    0.6221
+ F1 Score:  0.6096
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 800 is 0.08117797431044692
+At Epoch No: 175
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 12, 1 x 12]}
+Precision: 0.5975232198142415 Recall: 0.622093023255814 FNR: 0.622093023255814FPR: 0.622093023255814
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 12 times
+Examples labeled as 1 classified by model as 1: 12 times
+
+
+==========================Scores========================================
+ Accuracy:  0.6909
+ Precision: 0.5975
+ Recall:    0.6221
+ F1 Score:  0.6096
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 900 is 0.08068508238304319
+o.d.o.l.ScoreIterationListener - Score at iteration 1000 is 0.08022671797144132
+At Epoch No: 200
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 11, 1 x 13]}
+Precision: 0.6123809523809525 Recall: 0.6429263565891472 FNR: 0.6429263565891472FPR: 0.6429263565891472
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7
+ Precision: 0.6124
+ Recall:    0.6429
+ F1 Score:  0.6273
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1100 is 0.07988669177678627
+At Epoch No: 225
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 11, 1 x 13]}
+Precision: 0.6123809523809525 Recall: 0.6429263565891472 FNR: 0.6429263565891472FPR: 0.6429263565891472
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7
+ Precision: 0.6124
+ Recall:    0.6429
+ F1 Score:  0.6273
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1200 is 0.07961564552126907
+At Epoch No: 250
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 11, 1 x 13]}
+Precision: 0.6123809523809525 Recall: 0.6429263565891472 FNR: 0.6429263565891472FPR: 0.6429263565891472
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7
+ Precision: 0.6124
+ Recall:    0.6429
+ F1 Score:  0.6273
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1300 is 0.07936754752331832
+At Epoch No: 275
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 11, 1 x 13]}
+Precision: 0.6123809523809525 Recall: 0.6429263565891472 FNR: 0.6429263565891472FPR: 0.6429263565891472
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7
+ Precision: 0.6124
+ Recall:    0.6429
+ F1 Score:  0.6273
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1400 is 0.07914229265348179
+o.d.o.l.ScoreIterationListener - Score at iteration 1500 is 0.07894014373539
+At Epoch No: 300
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 11, 1 x 13]}
+Precision: 0.6123809523809525 Recall: 0.6429263565891472 FNR: 0.6429263565891472FPR: 0.6429263565891472
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7
+ Precision: 0.6124
+ Recall:    0.6429
+ F1 Score:  0.6273
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1600 is 0.07874397968682717
+At Epoch No: 325
+Confusion Matrix: {0=[0 x 64, 1 x 22], 1=[0 x 11, 1 x 13]}
+Precision: 0.6123809523809525 Recall: 0.6429263565891472 FNR: 0.6429263565891472FPR: 0.6429263565891472
+
+Examples labeled as 0 classified by model as 0: 64 times
+Examples labeled as 0 classified by model as 1: 22 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7
+ Precision: 0.6124
+ Recall:    0.6429
+ F1 Score:  0.6273
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1700 is 0.07855872657355362
+At Epoch No: 350
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1800 is 0.0783857811154343
+At Epoch No: 375
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 1900 is 0.07823006186898299
+o.d.o.l.ScoreIterationListener - Score at iteration 2000 is 0.07805466839647669
+At Epoch No: 400
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2100 is 0.07791747446135273
+At Epoch No: 425
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2200 is 0.07778852567898006
+At Epoch No: 450
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2300 is 0.0776669659952479
+At Epoch No: 475
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2400 is 0.07755617457111989
+o.d.o.l.ScoreIterationListener - Score at iteration 2500 is 0.07746653669462429
+At Epoch No: 500
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2600 is 0.07745416145625077
+At Epoch No: 525
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2700 is 0.07744527801753968
+At Epoch No: 550
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2800 is 0.0774351104976624
+At Epoch No: 575
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 2900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 3000 is 0.0774351104976624
+At Epoch No: 600
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3100 is 0.0774351104976624
+At Epoch No: 625
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3200 is 0.0774351104976624
+At Epoch No: 650
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3300 is 0.0774351104976624
+At Epoch No: 675
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 3500 is 0.0774351104976624
+At Epoch No: 700
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3600 is 0.0774351104976624
+At Epoch No: 725
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3700 is 0.0774351104976624
+At Epoch No: 750
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3800 is 0.0774351104976624
+At Epoch No: 775
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 3900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 4000 is 0.0774351104976624
+At Epoch No: 800
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4100 is 0.0774351104976624
+At Epoch No: 825
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4200 is 0.0774351104976624
+At Epoch No: 850
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4300 is 0.0774351104976624
+At Epoch No: 875
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 4500 is 0.0774351104976624
+At Epoch No: 900
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4600 is 0.0774351104976624
+At Epoch No: 925
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4700 is 0.0774351104976624
+At Epoch No: 950
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4800 is 0.0774351104976624
+At Epoch No: 975
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 4900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 5000 is 0.0774351104976624
+At Epoch No: 1000
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5100 is 0.0774351104976624
+At Epoch No: 1025
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5200 is 0.0774351104976624
+At Epoch No: 1050
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5300 is 0.0774351104976624
+At Epoch No: 1075
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 5500 is 0.0774351104976624
+At Epoch No: 1100
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5600 is 0.0774351104976624
+At Epoch No: 1125
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5700 is 0.0774351104976624
+At Epoch No: 1150
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5800 is 0.0774351104976624
+At Epoch No: 1175
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 5900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 6000 is 0.0774351104976624
+At Epoch No: 1200
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6100 is 0.0774351104976624
+At Epoch No: 1225
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6200 is 0.0774351104976624
+At Epoch No: 1250
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6300 is 0.0774351104976624
+At Epoch No: 1275
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 6500 is 0.0774351104976624
+At Epoch No: 1300
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6600 is 0.0774351104976624
+At Epoch No: 1325
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6700 is 0.0774351104976624
+At Epoch No: 1350
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6800 is 0.0774351104976624
+At Epoch No: 1375
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 6900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 7000 is 0.0774351104976624
+At Epoch No: 1400
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7100 is 0.0774351104976624
+At Epoch No: 1425
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7200 is 0.0774351104976624
+At Epoch No: 1450
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7300 is 0.0774351104976624
+At Epoch No: 1475
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 7500 is 0.0774351104976624
+At Epoch No: 1500
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7600 is 0.0774351104976624
+At Epoch No: 1525
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7700 is 0.0774351104976624
+At Epoch No: 1550
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7800 is 0.0774351104976624
+At Epoch No: 1575
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 7900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 8000 is 0.0774351104976624
+At Epoch No: 1600
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8100 is 0.0774351104976624
+At Epoch No: 1625
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8200 is 0.0774351104976624
+At Epoch No: 1650
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8300 is 0.0774351104976624
+At Epoch No: 1675
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 8500 is 0.0774351104976624
+At Epoch No: 1700
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8600 is 0.0774351104976624
+At Epoch No: 1725
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8700 is 0.0774351104976624
+At Epoch No: 1750
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8800 is 0.0774351104976624
+At Epoch No: 1775
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 8900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 9000 is 0.0774351104976624
+At Epoch No: 1800
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9100 is 0.0774351104976624
+At Epoch No: 1825
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9200 is 0.0774351104976624
+At Epoch No: 1850
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9300 is 0.0774351104976624
+At Epoch No: 1875
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 9500 is 0.0774351104976624
+At Epoch No: 1900
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9600 is 0.0774351104976624
+At Epoch No: 1925
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9700 is 0.0774351104976624
+At Epoch No: 1950
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9800 is 0.0774351104976624
+At Epoch No: 1975
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 9900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 10000 is 0.0774351104976624
+At Epoch No: 2000
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10100 is 0.0774351104976624
+At Epoch No: 2025
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10200 is 0.0774351104976624
+At Epoch No: 2050
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10300 is 0.0774351104976624
+At Epoch No: 2075
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 10500 is 0.0774351104976624
+At Epoch No: 2100
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10600 is 0.0774351104976624
+At Epoch No: 2125
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10700 is 0.0774351104976624
+At Epoch No: 2150
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10800 is 0.0774351104976624
+At Epoch No: 2175
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 10900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 11000 is 0.0774351104976624
+At Epoch No: 2200
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11100 is 0.0774351104976624
+At Epoch No: 2225
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11200 is 0.0774351104976624
+At Epoch No: 2250
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11300 is 0.0774351104976624
+At Epoch No: 2275
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 11500 is 0.0774351104976624
+At Epoch No: 2300
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11600 is 0.0774351104976624
+At Epoch No: 2325
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11700 is 0.0774351104976624
+At Epoch No: 2350
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11800 is 0.0774351104976624
+At Epoch No: 2375
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 11900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 12000 is 0.0774351104976624
+At Epoch No: 2400
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12100 is 0.0774351104976624
+At Epoch No: 2425
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12200 is 0.0774351104976624
+At Epoch No: 2450
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12300 is 0.0774351104976624
+At Epoch No: 2475
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 12500 is 0.0774351104976624
+At Epoch No: 2500
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12600 is 0.0774351104976624
+At Epoch No: 2525
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12700 is 0.0774351104976624
+At Epoch No: 2550
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12800 is 0.0774351104976624
+At Epoch No: 2575
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 12900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 13000 is 0.0774351104976624
+At Epoch No: 2600
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13100 is 0.0774351104976624
+At Epoch No: 2625
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13200 is 0.0774351104976624
+At Epoch No: 2650
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13300 is 0.0774351104976624
+At Epoch No: 2675
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 13500 is 0.0774351104976624
+At Epoch No: 2700
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13600 is 0.0774351104976624
+At Epoch No: 2725
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13700 is 0.0774351104976624
+At Epoch No: 2750
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13800 is 0.0774351104976624
+At Epoch No: 2775
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 13900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 14000 is 0.0774351104976624
+At Epoch No: 2800
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14100 is 0.0774351104976624
+At Epoch No: 2825
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14200 is 0.0774351104976624
+At Epoch No: 2850
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14300 is 0.0774351104976624
+At Epoch No: 2875
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 14500 is 0.0774351104976624
+At Epoch No: 2900
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14600 is 0.0774351104976624
+At Epoch No: 2925
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14700 is 0.0774351104976624
+At Epoch No: 2950
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14800 is 0.0774351104976624
+At Epoch No: 2975
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 14900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 15000 is 0.0774351104976624
+At Epoch No: 3000
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15100 is 0.0774351104976624
+At Epoch No: 3025
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15200 is 0.0774351104976624
+At Epoch No: 3050
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15300 is 0.0774351104976624
+At Epoch No: 3075
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 15500 is 0.0774351104976624
+At Epoch No: 3100
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15600 is 0.0774351104976624
+At Epoch No: 3125
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15700 is 0.0774351104976624
+At Epoch No: 3150
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15800 is 0.0774351104976624
+At Epoch No: 3175
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 15900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 16000 is 0.0774351104976624
+At Epoch No: 3200
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16100 is 0.0774351104976624
+At Epoch No: 3225
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16200 is 0.0774351104976624
+At Epoch No: 3250
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16300 is 0.0774351104976624
+At Epoch No: 3275
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 16500 is 0.0774351104976624
+At Epoch No: 3300
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16600 is 0.0774351104976624
+At Epoch No: 3325
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16700 is 0.0774351104976624
+At Epoch No: 3350
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16800 is 0.0774351104976624
+At Epoch No: 3375
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 16900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 17000 is 0.0774351104976624
+At Epoch No: 3400
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17100 is 0.0774351104976624
+At Epoch No: 3425
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17200 is 0.0774351104976624
+At Epoch No: 3450
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17300 is 0.0774351104976624
+At Epoch No: 3475
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 17500 is 0.0774351104976624
+At Epoch No: 3500
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17600 is 0.0774351104976624
+At Epoch No: 3525
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17700 is 0.0774351104976624
+At Epoch No: 3550
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17800 is 0.0774351104976624
+At Epoch No: 3575
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 17900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 18000 is 0.0774351104976624
+At Epoch No: 3600
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18100 is 0.0774351104976624
+At Epoch No: 3625
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18200 is 0.0774351104976624
+At Epoch No: 3650
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18300 is 0.0774351104976624
+At Epoch No: 3675
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 18500 is 0.0774351104976624
+At Epoch No: 3700
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18600 is 0.0774351104976624
+At Epoch No: 3725
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18700 is 0.0774351104976624
+At Epoch No: 3750
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18800 is 0.0774351104976624
+At Epoch No: 3775
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 18900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 19000 is 0.0774351104976624
+At Epoch No: 3800
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19100 is 0.0774351104976624
+At Epoch No: 3825
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19200 is 0.0774351104976624
+At Epoch No: 3850
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19300 is 0.0774351104976624
+At Epoch No: 3875
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 19500 is 0.0774351104976624
+At Epoch No: 3900
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19600 is 0.0774351104976624
+At Epoch No: 3925
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19700 is 0.0774351104976624
+At Epoch No: 3950
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19800 is 0.0774351104976624
+At Epoch No: 3975
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 19900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 20000 is 0.0774351104976624
+At Epoch No: 4000
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20100 is 0.0774351104976624
+At Epoch No: 4025
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20200 is 0.0774351104976624
+At Epoch No: 4050
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20300 is 0.0774351104976624
+At Epoch No: 4075
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 20500 is 0.0774351104976624
+At Epoch No: 4100
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20600 is 0.0774351104976624
+At Epoch No: 4125
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20700 is 0.0774351104976624
+At Epoch No: 4150
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20800 is 0.0774351104976624
+At Epoch No: 4175
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 20900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 21000 is 0.0774351104976624
+At Epoch No: 4200
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21100 is 0.0774351104976624
+At Epoch No: 4225
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21200 is 0.0774351104976624
+At Epoch No: 4250
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21300 is 0.0774351104976624
+At Epoch No: 4275
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 21500 is 0.0774351104976624
+At Epoch No: 4300
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21600 is 0.0774351104976624
+At Epoch No: 4325
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21700 is 0.0774351104976624
+At Epoch No: 4350
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21800 is 0.0774351104976624
+At Epoch No: 4375
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 21900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 22000 is 0.0774351104976624
+At Epoch No: 4400
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22100 is 0.0774351104976624
+At Epoch No: 4425
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22200 is 0.0774351104976624
+At Epoch No: 4450
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22300 is 0.0774351104976624
+At Epoch No: 4475
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 22500 is 0.0774351104976624
+At Epoch No: 4500
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22600 is 0.0774351104976624
+At Epoch No: 4525
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22700 is 0.0774351104976624
+At Epoch No: 4550
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22800 is 0.0774351104976624
+At Epoch No: 4575
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 22900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 23000 is 0.0774351104976624
+At Epoch No: 4600
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23100 is 0.0774351104976624
+At Epoch No: 4625
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23200 is 0.0774351104976624
+At Epoch No: 4650
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23300 is 0.0774351104976624
+At Epoch No: 4675
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 23500 is 0.0774351104976624
+At Epoch No: 4700
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23600 is 0.0774351104976624
+At Epoch No: 4725
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23700 is 0.0774351104976624
+At Epoch No: 4750
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23800 is 0.0774351104976624
+At Epoch No: 4775
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 23900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 24000 is 0.0774351104976624
+At Epoch No: 4800
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24100 is 0.0774351104976624
+At Epoch No: 4825
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24200 is 0.0774351104976624
+At Epoch No: 4850
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24300 is 0.0774351104976624
+At Epoch No: 4875
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24400 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 24500 is 0.0774351104976624
+At Epoch No: 4900
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24600 is 0.0774351104976624
+At Epoch No: 4925
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24700 is 0.0774351104976624
+At Epoch No: 4950
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24800 is 0.0774351104976624
+At Epoch No: 4975
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+o.d.o.l.ScoreIterationListener - Score at iteration 24900 is 0.0774351104976624
+o.d.o.l.ScoreIterationListener - Score at iteration 25000 is 0.0774351104976624
+At Epoch No: 5000
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 11, 1 x 13]}
+Precision: 0.6188080495356036 Recall: 0.6487403100775193 FNR: 0.6487403100775193FPR: 0.6487403100775193
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 11 times
+Examples labeled as 1 classified by model as 1: 13 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7091
+ Precision: 0.6188
+ Recall:    0.6487
+ F1 Score:  0.6334
+========================================================================
+
+MAX F1 Score: 0.6334207651954524 At Iteration : 350
+Evaluate model....
+Time Taken: 6316057
+Disconnected from the target VM, address: '127.0.0.1:59571', transport: 'socket'
+
+Process finished with exit code 0

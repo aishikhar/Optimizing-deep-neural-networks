@@ -1,0 +1,22 @@
+Initially, the hyperparameters of the MLP were set as follows:
+
+-4 Hidden Layers
+Structure was always Inputs->2*Inputs->Inputs->Inputs/2->Inputs/4->Output where Inputs: No. of input Neurons
+
+-Learning Rate: 0.01
+-Activation Function ReLu
+-5000 Epochs with 5 Iterations each
+-Train Test Split is 70:30
+-Dataset was normalized with Zero Mean and Unit Variance (Standard Normal Distribution)
+-Xavier Weight Initialization
+-Default Momentum of 0.9 for all
+
+
+****************************************************************************************************************
+
+1. Optimization Algorithm Comparison
+	-SGD
+	-LGD
+	-CGD
+2. 
+

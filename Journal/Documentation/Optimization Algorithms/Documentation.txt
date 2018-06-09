@@ -1,0 +1,3 @@
+Stochastic Gradient Descent: Time Taken: 1415371
+Line Gradient Descent: Time Taken: 1847461
+Conjugate Gradient Descent: Time Taken: 1819164

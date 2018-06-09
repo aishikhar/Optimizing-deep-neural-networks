@@ -1,0 +1,20 @@
+MLP with 7 Hidden Layers (CGD):
+At Epoch No: 175
+Confusion Matrix: {0=[0 x 65, 1 x 21], 1=[0 x 10, 1 x 14]}
+Precision: 0.6333333333333333 Recall: 0.6695736434108528 FNR: 0.6695736434108528FPR: 0.6695736434108528
+
+Examples labeled as 0 classified by model as 0: 65 times
+Examples labeled as 0 classified by model as 1: 21 times
+Examples labeled as 1 classified by model as 0: 10 times
+Examples labeled as 1 classified by model as 1: 14 times
+
+
+==========================Scores========================================
+ Accuracy:  0.7182
+ Precision: 0.6333
+ Recall:    0.6696
+ F1 Score:  0.6509
+========================================================================
+
+
+

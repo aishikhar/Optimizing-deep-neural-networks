@@ -1,0 +1,15 @@
+Data Files:
+1. 367CasesFINAL (ORIGNAL UNEDITED)
+2. apnea_new.csv : After selecting the medically relevant features as per Medical expert
+3. apnea_clean.csv :
+	After removing missing values as follows-
+
+			# 1. ANINDIC was removed because it was completely textual, descriptive.
+			# 2. The Patient IDs were removed, but they're sequential, so if the dataset isn't radomized, the row of the given patient corressponds to their ID.
+			# 3. Removed all rows with Missing values
+			# 4. Summed apnea1_3 and apnea4_7 to get apnea1_7
+4. apnea_all.csv (Removing apnea1_3 and apnea4_7 and encoding apnea1_7 as 0s and 1s)
+	**Also removed weird mistaken outliers**
+5. apnea.csv (Using Feature selection, removed columns SURFACTANT, BIRTHCRY, BRADY1_3DAYS, ALTE)
+
+Using apnea.csv without the Sr. No. column for further work....

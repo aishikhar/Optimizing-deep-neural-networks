@@ -1,0 +1,20 @@
+X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=seed)
+Structure:
+input_=Input(shape=(22,))
+encoded = Dense(input_size, activation='relu')(input_)
+encoded = Dense(input_size/2, activation='relu')(encoded)
+encoded = Dense(input_size/4, activation='relu')(encoded)
+
+decoded = Dense(input_size/4, activation='relu')(encoded)
+decoded = Dense(input_size/2, activation='relu')(decoded)
+autoencoder = Model(input=input_, output=decoded)
+
+OPtimizer: SGD with AdaDelta 
+
+No of Epochs: 500 (Pretraining)
+Bathc Size=10
+Final Stats after pretraining:
+- loss: -910.6137 - acc: 0.3775 - fmeasure: 0.9162 - precision: 0.8512 - recall: 0.9922 - val_loss: -891.0692 - val_acc: 0.3705 - val_fmeasure: 0.9209 - val_precision: 0.8637 - val_recall: 0.9867
+AFTER Fine-tuning TRAINING FOR 500 EPOCHS with Batch size 10 with Softmax Classifier attached to Autoencoder
+val_fmeasure: 0.7558 - val_precision: 0.7452 - val_recall: 0.7671
+AUC: 0.7857
