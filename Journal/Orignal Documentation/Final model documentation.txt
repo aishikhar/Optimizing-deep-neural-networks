@@ -1,8 +1,0 @@
-ADAM 6 Layer:
-AUC : 0.837868267968
-F1 Score:  0.67982456140
-Accuracy:  0.78082191780
-Precision:  0.6642300194
-Recall:  0.716025641026
-
-

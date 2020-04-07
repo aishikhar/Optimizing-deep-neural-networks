@@ -1,4 +1,0 @@
-For comparison of Activation Functions, the 4 Hidden Layer network was selected as the best network with the highest performance from the previous activation functions.
-4H Layers: Structure Input->Input*4->Input*2->Input->Input/2->Output
-
-

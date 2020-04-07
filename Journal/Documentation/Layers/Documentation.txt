@@ -1,8 +1,0 @@
- 1H Layer:  Structure Input->Input*4->Output
- 2H Layers: Structure Input->Input*4->Input*2->Output
- 3H Layers: Structure Input->Input*4->Input*2->Input->Output
- 4H Layers: Structure Input->Input*4->Input*2->Input->Input/2->Output
- 5H Layers: Structure Input->Input*4->Input*2->Input->Input/2-Input/4->Output
- 6H Layers: Structure Input->Input*4->Input*2->Input->Input/2->Input/4->Input/8->Output
- 
-Comparison of Number of Layers:

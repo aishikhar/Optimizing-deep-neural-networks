@@ -1,7 +1,0 @@
-The features selected by the medical expert were taken.
-
-Some logs here:
-# 1. ANINDIC was removed because it was completely textual, descriptive.
-# 2. The Patient IDs were removed, but they're sequential, so if the dataset isn't radomized, the row of the given patient corressponds to their ID.
-# 3. Removed all rows with Missing values
-# 4. Summed apnea1_3 and apnea4_7 to get apnea1_7

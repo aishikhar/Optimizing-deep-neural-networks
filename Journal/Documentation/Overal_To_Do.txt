@@ -1,2 +1,0 @@
-** A list of extra to-do's to try out for the paper:
-1. Manifold Methods for Data Visualization looks interesting

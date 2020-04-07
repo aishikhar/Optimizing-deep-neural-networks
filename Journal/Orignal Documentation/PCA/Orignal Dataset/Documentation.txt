@@ -1,4 +1,0 @@
-Minka’s MLE is used to select the no. of PCAs 
-M. Tipping and C. Bishop, Probabilistic Principal Component Analysis, Journal of the Royal Statistical Society, Series B, 61, Part 3, pp. 611-622 via the score and score_samples methods. See http://www.miketipping.com/papers/met-mppca.pdf
-MLE Method Parameters Chosen:  14
-
